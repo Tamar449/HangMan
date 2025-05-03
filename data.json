@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "tamar",
+      "password": "12345",
+      "countGames": 56,
+      "words": [
+        "happy hanuka",
+        "have a nice day",
+        "hello"
+      ],
+      "countWins": 11
+    },
+    {
+      "id": 2,
+      "name": "ayala",
+      "password": "12345",
+      "countGames": 0,
+      "words": {},
+      "countWins": 0
+    },
+    {
+      "id": 3,
+      "name": "Sara",
+      "password": "9999",
+      "countGames": 0,
+      "words": {},
+      "countWins": 0
+    },
+    {
+      "id": 4,
+      "name": "Shira",
+      "password": "111",
+      "countGames": 4,
+      "words": [
+        "hello",
+        "happy hanuka"
+      ],
+      "countWins": 1
+    },
+    {
+      "id": 5,
+      "name": "lll",
+      "password": "4545",
+      "countGames": 1,
+      "words": [
+        "happy hanuka"
+      ],
+      "countWins": 1
+    },
+    {
+      "id": 6,
+      "name": "Yasmin",
+      "password": "123",
+      "countGames": 1,
+      "words": [
+        "have a nice day"
+      ],
+      "countWins": 1
+    }
+  ],
+  "counter": 6,
+  "words": [
+    "have a nice day",
+    "hello",
+    "happy hanuka"
+  ]
+}
